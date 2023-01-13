@@ -19,6 +19,7 @@ body {
     align-items: center;
     flex-direction: column;
     background-image: url(./images/pattern-background-desktop.svg);
+    background-color: var(--pale-blue);
     background-repeat: no-repeat;
     place-content: center;
     width: 1440px;
